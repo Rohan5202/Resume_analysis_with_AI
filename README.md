@@ -289,20 +289,6 @@ This repository is licensed under the terms of the MIT License. See [`LICENSE`](
   <img src="./screenshots/admin/10.png" alt="admin 10" />
 </details>
 
-### Built with 🤍 by <a href="https://www.linkedin.com/in/maryam-ameen">Maryam Ameen</a>
+### Built with 🤍 by <a href="https://www.linkedin.com/in/rohan-borse">Rohan Borse</a>
 
-## Sponsors 💖
-
-If this project helps you, please consider supporting it.
-
-<p>
-  <a href="https://github.com/sponsors/engmaryamameen"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-ff69b4" alt="Sponsor on GitHub" /></a>
-  &nbsp; 
-  <a href="mailto:eng.maryamameen@gmail.com?subject=Sponsor%20AI-Resume-Analyzer&body=Hi%2C%20I%27d%20like%20to%20support%20the%20project."><img src="https://img.shields.io/badge/Contact-Email-blue" alt="Email" /></a>
-</p>
-
----
-
-<p align="center">
-  If you find this useful, please ⭐ star and 👀 watch the repository to get updates.
-</p>
+## :)
