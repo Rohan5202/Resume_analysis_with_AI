@@ -24,7 +24,7 @@
   <p>
     <small align="justify">
       Built and maintained by 
-      <a href="https://www.linkedin.com/in/maryam-ameen">Maryam Ameen</a>
+      <a href="https://www.linkedin.com/in/rohan-borse">Rohan Borse</a>
      </small>
   </p>
   <small align="justify">🚀 Practical AI application for resume parsing, evaluation and recommendations.</small>
@@ -238,55 +238,19 @@ This repository is licensed under the terms of the MIT License. See [`LICENSE`](
 
   <p><em>Main screens</em></p>
   
-  <img src="./screenshots/user/1.png" alt="user 1" />
-  <br/>
-  <img src="./screenshots/user/2.png" alt="user 2" />
-  <br/>
-  <img src="./screenshots/user/3.png" alt="user 3" />
-  <br/>
-  <img src="./screenshots/user/4.png" alt="user 4" />
-  <br/>
-  <img src="./screenshots/user/5.png" alt="user 5" />
+ 
 </details>
 
 <details>
   <summary><strong>Feedback</strong></summary>
 
-  <img src="./screenshots/feedback/1.png" alt="feedback 1" />
-  <br/>
-  <img src="./screenshots/feedback/2.png" alt="feedback 2" />
-  <br/>
-  <img src="./screenshots/feedback/3.png" alt="feedback 3" />
-  <br/>
-  <img src="./screenshots/feedback/4%20search-comments.png" alt="feedback 4 search comments" />
-  <br/>
-  <img src="./screenshots/feedback/5%20expended%20review%20session.png" alt="feedback 5 expanded review session" />
-  <br/>
-  <img src="./screenshots/feedback/6%20csv%20export.png" alt="feedback 6 csv export" />
+ 
 </details>
 
 <details>
   <summary><strong>Admin</strong></summary>
 
-  <img src="./screenshots/admin/1.png" alt="admin 1" />
-  <br/>
-  <img src="./screenshots/admin/2.png" alt="admin 2" />
-  <br/>
-  <img src="./screenshots/admin/3.png" alt="admin 3" />
-  <br/>
-  <img src="./screenshots/admin/4.png" alt="admin 4" />
-  <br/>
-  <img src="./screenshots/admin/5.png" alt="admin 5" />
-  <br/>
-  <img src="./screenshots/admin/6.png" alt="admin 6" />
-  <br/>
-  <img src="./screenshots/admin/7.png" alt="admin 7" />
-  <br/>
-  <img src="./screenshots/admin/8.png" alt="admin 8" />
-  <br/>
-  <img src="./screenshots/admin/9.png" alt="admin 9" />
-  <br/>
-  <img src="./screenshots/admin/10.png" alt="admin 10" />
+  
 </details>
 
 ### Built with 🤍 by <a href="https://www.linkedin.com/in/rohan-borse">Rohan Borse</a>
