@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python" />
     <img src="https://img.shields.io/badge/Streamlit-1.x-ff4b4b?logo=streamlit&logoColor=white" alt="Streamlit" />
     <a href="https://github.com/sponsors/engmaryamameen"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-ff69b4" alt="Sponsor" /></a>
-    <a href="https://www.linkedin.com/in/maryam-ameen"><img src="https://img.shields.io/badge/LinkedIn-Maryam%20Ameen-blue?logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/rohan-borse/"><img src="logo=linkedin" alt="LinkedIn" /></a>
     <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="license" /></a>
   </p>
   
@@ -203,7 +203,7 @@ streamlit run App.py
 If ``GeocoderUnavailable`` error comes up then just check your internet connection and network speed
 
 ## Having trouble with setup?
-Open an issue on GitHub or email me at <a href="mailto:eng.maryamameen@gmail.com">eng.maryamameen@gmail.com</a>.
+Open an issue on GitHub or email me at <a href="mailto:Rohan">Rohan</a>.
 
 ## Usage
 - After the setup it will do stuff's automatically
